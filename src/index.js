@@ -27,3 +27,5 @@ async function pegaArquivo(caminhoDoArquivo) {
 }
 
 export default pegaArquivo;
+
+// [gatinho salsicha](http://gatinhosalsicha.com.br/)
